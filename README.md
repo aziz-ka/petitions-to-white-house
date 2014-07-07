@@ -1,0 +1,1 @@
+This project was built using D3 Javascript library to demonstrate the petitions submitted to the White House. Each circle represents a signle petition and sized according to the amount of signatures that petition collected. Data is pulled from whitehouse.gov API
